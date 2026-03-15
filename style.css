@@ -58,6 +58,9 @@ a {
     border-radius: 36px;
     margin: 40px auto
 }
+a:hover{
+    background-color: #8233e8;
+}
 section img{
     display: block;
     width: 792px;

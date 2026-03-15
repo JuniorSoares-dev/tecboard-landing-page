@@ -1,3 +1,4 @@
+/* Definição de fontes */
 @font-face {
     font-family: "Unbounded";
     src: url("fonts/Unbounded-Bold.ttf")
@@ -14,6 +15,8 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* Reset */
 * {
     margin: 0;
     padding: 0;
@@ -21,6 +24,7 @@
     text-decoration: none;
 }
 
+/* Estilo Desktop */
 body {
     background-color: #0E1014;
     color: #FFFFFF;

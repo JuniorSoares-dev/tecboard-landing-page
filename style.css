@@ -25,6 +25,10 @@ body {
     background-color: #0E1014;
     color: #FFFFFF;
 }
+header img {
+    display: block;
+    margin: 75px 0 0 360px;
+}
 h1{
     font-family: "Unbounded" , sans-serif;
     font-size: 64px;

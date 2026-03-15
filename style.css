@@ -29,6 +29,7 @@ h1{
     font-family: "Unbounded" , sans-serif;
     font-size: 64px;
     text-align: center;
+    margin-top: 60px;
 }
 h1 span {
     color: #9747FF;
@@ -37,6 +38,7 @@ p{
     font-family: "Poppins";
     font-size: 24px;
     text-align: center;
+    margin-top: 24px;
 }
 a {
     color: #FFFFFF;
@@ -50,4 +52,11 @@ a {
     text-align: center;
     line-height: 66px;
     border-radius: 36px;
+    margin: 40px auto
+}
+section img{
+    display: block;
+    width: 792px;
+    height: 446px;
+    margin: 0 auto;
 }

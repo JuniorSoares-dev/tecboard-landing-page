@@ -45,4 +45,6 @@ a {
     display: block;
     width: 340px;
     height: 66px;
+    text-align: center;
+    line-height: 66px;
 }

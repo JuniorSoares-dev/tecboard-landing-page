@@ -3,6 +3,11 @@
     src: url("fonts/Unbounded-Bold.ttf")
     format("truetype");
 }
+@font-face {
+    font-family: "Poppins";
+    src: url("fonts/Poppins-Regular.ttf")
+    format("truetype");
+}
 * {
     margin: 0;
     padding: 0;
@@ -21,7 +26,9 @@ h1{
 h1 span {
     color: #9747FF;
 }
-
+p{
+    font-family: "Poppins";
+}
 a {
     color: #FFFFFF;
 }
